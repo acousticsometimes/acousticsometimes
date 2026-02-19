@@ -1,26 +1,33 @@
-<img src="https://github.com/acousticsometimes.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
 # Livy Pang
-### Full-Stack Developer | Cybersecurity Graduate | Designer
-
-UOW Double Major: Cybersecurity & Digital Systems Security
+**Full-Stack Developer · Cybersecurity Graduate · Designer**
 
 I build secure, high-performance web applications from the ground up. Based in Indonesia, I specialize in the intersection of creative design and robust engineering—ensuring that every digital experience I create is as visually engaging as it is architecturally sound.
 
-🛠️ **Tech Stack**
-- Advanced: `React` `Canva` `HTML5` `CSS3`
-- Intermediate: `Figma` `PHP` `Tailwind CSS` `JavaScript` `Firebase` `MySQL`
+---
 
-🔭 **Featured Projects**
-- [Therma-Snaps Photobooth](https://therma-snaps-photobooth.vercel.app/) - A creative web app that blends modern browser tech with retro aesthetics. I developed a custom dithering algorithm to transform high-res captures into stylized, 1-bit monochrome images—giving them a unique receipt-print look. Built with WebRTC, the project focuses on a "one-tap" user journey, making technical complexity feel effortless through clean, intentional UI/UX design.
-- [Krema POS](https://cremapos-e14a5.web.app/) - A high-performance POS engineered for fast-paced hospitality environments. I built a robust inventory engine that tracks ingredients at the recipe level, paired with a minimalist, dark-mode UI designed for maximum speed. Using React, Firebase, and Tailwind CSS, I delivered a seamless, cloud-synced experience that balances complex backend logic with an intuitive user interface.
+### 🛠️ Tech Stack
+**Advanced** — React · HTML5 · CSS3 · Canva  
+**Intermediate** — Figma · PHP · JavaScript · Tailwind · Firebase · MySQL
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acousticsometimes&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acousticsometimes&theme=dark" alt="GitHub Streak" />
-</p>
+---
 
-🤝 **Connect With Me**
-- [GitHub](https://github.com/acousticsometimes)
-- [LinkedIn](www.linkedin.com/in/livia-pang-059867309)
+### 🔭 Featured Projects
+
+**[Therma-Snaps Photobooth](https://therma-snaps-photobooth.vercel.app/)** A creative web app blending modern browser tech with retro aesthetics. Features a custom dithering algorithm for 1-bit monochrome images. Built with WebRTC and React.
+
+**[Krema POS](https://cremapos-e14a5.web.app/)** High-performance POS for hospitality. Features a recipe-level inventory engine and a minimalist dark-mode UI. Built with React, Firebase, and Tailwind CSS.
+
+---
+
+### 📊 Stats & Rhythm
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=acousticsometimes&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
+
+### Recently Played 
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mppk4fagw7jse2wyth5tdpcmhi&count=3)
+
+---
+
+### 🤝 Connect
+[GitHub](https://github.com/acousticsometimes) / [LinkedIn](https://www.linkedin.com/in/livia-pang-059867309)
